@@ -23,7 +23,7 @@ function MainPage() {
       <div className=" container">
         <div className=" left">
           <img src={product?.images} alt="" />
-          <div>
+          <div className=" bottom-img">
             <div>Innovation @ Oswald</div>
             <div style={{ display: "flex" }}>
               Learn what drives our team to find better ways to serve our
